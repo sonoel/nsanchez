@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "fimaz-NSCM"
+version = "1.0.0">
+
+<name>Fimaz-Noel</name>
+
+<description>
+Aplicacion de Fimaz
+</description>
+
+<author email="sonoel_97@hotmail.com">
+Noel Sánchez
+</author>
+
+<icon src="img/fimaz.png" gap:density="ldpi" gap:platform="android" />
+<icon src="img/fimaz.png" gap:density="mdpi" gap:platform="android" />
+<icon src="img/fimaz.png" gap:density="hdpi" gap:platform="android" />
+<icon src="img/fimaz.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
